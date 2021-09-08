@@ -7,3 +7,5 @@ Today I've found out general information about:
 * Linters and Analizers
 
 Today I've learned ansible basic information.
+
+Today I've learned about IDEs, builders, CVS, static and dinamic sites, package managers
