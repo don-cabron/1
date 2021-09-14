@@ -1,4 +1,6 @@
 # 1
+## Here is what I have learned
+
 Today I've learned about methodologies of software development.
 
 Today I've found out general information about: 
